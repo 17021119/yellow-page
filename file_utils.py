@@ -32,7 +32,7 @@ def read_file(file_name):
     return f.read()
 
 def read_phone_set():
-    data = read_file("phone_unique_hn")
+    data = read_file("phone_unique")
     datas = data.split("\n")
     return datas
 def read_cate_list():
@@ -50,10 +50,16 @@ def read_link_all_list():
 def init_all_link():
     cates = read_cate_list()
     # province = ['Thái Nguyên', 'Bắc Ninh', 'Bắc Giang', 'Phú Thọ', 'Hà Nam', 'Hải Dương']
-    province = 'Vĩnh Phúc'
-    for cate in cates:
-        url = 'https://www.yellowpages.vn/search.asp?keyword=' + cate + '&where=' + province + '\n'
-        write_file(url, 'link_all')
+    # province = 'Vĩnh Phúc'
+    # for cate in cates:
+    #     url = 'https://www.yellowpages.vn/search.asp?keyword=' + cate + '&where=' + province + '\n'
+    #     write_file(url, 'link_all')
+    provinces = ['Nam Định', 'Ninh Bình']
+    for province in provinces:
+        for cate in cates:
+            url = 'https://www.yellowpages.vn/search.asp?keyword=' + cate + '&where=' + province + '\n'
+            write_file(url, 'link_all')
+
 
 
 # init_all_link()

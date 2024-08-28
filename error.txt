@@ -39,3 +39,8 @@ error: https://www.yellowpages.vn/search.asp?keyword=ắc Quy Xe Nâng&where=Hà
 error: https://www.yellowpages.vn/search.asp?keyword=Bao Bì - Nhà Sản Xuất và Kinh Doanh&where=Hà Nộierror: https://www.yellowpages.vn/search.asp?keyword=In Bao Bì - Công Ty Thiết Kế và In ấn Bao Bì&where=Hà Nộierror: https://www.yellowpages.vn/search.asp?keyword=Bao Bì Giấy&where=Hà Nộierror: https://www.yellowpages.vn/search.asp?keyword=In Bao Bì Giấy&where=Hà Nộihttps://www.yellowpages.vn/search.asp?keyword=áo Khoác%2C áo Gió - Sản Xuất Và Bán Buôn&where=Hà Nội
 https://www.yellowpages.vn/search.asp?keyword=áo Khoác%2C áo Gió - Sản Xuất Và Bán Buôn&where=Hà Nội
 https://www.yellowpages.vn/search.asp?keyword=áo Mưa - Công Ty áo Mưa%2C Sản Xuất và Bán Buôn&where=Hà Nội
+https://www.yellowpages.vn/search.asp?keyword=Bánh Xe Đẩy%2C Bánh Xe Đẩy Công Nghiệp&where=Nam Định
+error: https://www.yellowpages.vn/search.asp?keyword=Túi Nilon PE%2C Túi PP%2C Túi HDPE%2C.&where=Nam Địnhhttps://www.yellowpages.vn/search.asp?keyword=Chứng Khoán - Công Ty Chứng Khoán&where=Nam Định
+error: https://www.yellowpages.vn/search.asp?keyword=In Chuyển Nhiệt&where=Nam Địnherror: https://www.yellowpages.vn/search.asp?keyword=In Lụa%2C In Lưới&where=Nam Địnherror: https://www.yellowpages.vn/search.asp?keyword=Túi Nilon PE%2C Túi PP%2C Túi HDPE%2C.&where=Nam Địnherror: https://www.yellowpages.vn/search.asp?keyword=Cơ Khí -  Gia Công và Chế Tạo&where=Ninh Bìnherror: https://www.yellowpages.vn/search.asp?keyword=Dây Chuyền Sản Xuất - Thiết Kế Và Chế Tạo&where=Ninh Bìnherror: https://www.yellowpages.vn/search.asp?keyword=Gỗ - Chế Biến Và Cung Cấp&where=Ninh Bìnhhttps://www.yellowpages.vn/search.asp?keyword=Vải Dệt Kim%2C Vải Dệt Thoi&where=Ninh Bình
+
+
